@@ -1,0 +1,20 @@
+{
+  "name": "2dv610-a1p2",
+  "version": "1.0.0",
+  "description": "Assignment 1 part 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/fmenkes/2dv610-a1p2.git"
+  },
+  "author": "Francis Menkes",
+  "license": "ISC",
+  "dependencies": {
+    "blanket": "^1.2.3",
+    "jasmine": "^2.5.2",
+    "sinon": "^1.17.6"
+  }
+}
