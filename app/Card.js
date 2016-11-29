@@ -2,10 +2,13 @@
   'use strict';
 
   class Card {
-    constructor() {}
+    constructor(suit, value) {
+      this.suit = suit;
+      this.value = value;
+    }
 
     getSuit() {
-
+      return this.suit;
     }
 
     getValue() {
