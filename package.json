@@ -8,7 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/fmenkes/2dv610-a1p2.git"
+    "url": "https://github.com/fmenkes/2dv610-a1p2.git"
+  },
+  "jshintConfig": {
+    "esversion": 6
   },
   "author": "Francis Menkes",
   "license": "ISC",
