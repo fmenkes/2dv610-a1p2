@@ -12,7 +12,7 @@
     }
 
     getValue() {
-
+      return this.value;
     }
   }
 
