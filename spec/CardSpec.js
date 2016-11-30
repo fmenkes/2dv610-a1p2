@@ -1,4 +1,5 @@
-describe("Card", () => {
+
+  describe("Card", () => {
   var Card = require("../app/Card");
 
   it("should return the correct suit", () => {

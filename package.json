@@ -4,7 +4,7 @@
   "description": "Assignment 1 part 2",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node --use_strict ./node_modules/.bin/istanbul cover --include-all-sources jasmine"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "author": "Francis Menkes",
   "license": "ISC",
   "dependencies": {
-    "blanket": "^1.2.3",
+    "istanbul": "^0.4.5",
     "jasmine": "^2.5.2",
     "sinon": "^1.17.6"
   }
